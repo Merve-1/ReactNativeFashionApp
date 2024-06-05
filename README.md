@@ -30,7 +30,7 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-      git clone https://github.com/Merve-1/ReactNativeFashionApp.git
+   git clone https://github.com/Merve-1/ReactNativeFashionApp.git
    cd ReactNativeFashionApp
    ```
 
