@@ -1,15 +1,5 @@
 Fashion app built with React Native. It allows users to discover the latest trends and browse collections of their favorite fashion items. The app offers a smooth and engaging user experience, making it easy for users to stay fashionable.
 
-## Table of Contents
-
-- [Features](#features)
-- [App Pages](#app-pages)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Onboarding for new users
